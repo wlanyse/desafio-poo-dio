@@ -41,7 +41,7 @@ Permite que você defina uma classe filha que reutiliza (herda), estende ou modi
 Capacidade de um objeto poder ser referenciado de várias formas. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele. A capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica é chamada de polimorfismo.
 
 
-** CONCEITOS FUNDAMENTAIS POO **
+# CONCEITOS FUNDAMENTAIS POO #
 
 # DOMÍNIO:
 Domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
