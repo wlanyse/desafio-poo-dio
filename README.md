@@ -5,9 +5,13 @@ O objetivo principal é colocar em prática umas das principais ferramentas da O
 # Pré-Requisitos
 
 Conhecer a sintaxe da Java
+
 Java JDK 11
+
 IDE para desenvolvimento Java (usarei IntelliJ)
+
 Git
+
 Conta no GitHub
 
 
